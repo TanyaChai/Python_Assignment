@@ -8,7 +8,7 @@
 	
 ### Introduction
 
-The HackerNews project fetches the top and job stories in 2 formats from https://news.ycombinator.com for user convenience. Hackernews_csv.py is used to generate a .csv files with the data fetched and hackernew_db.py is used to insert the same data into a table in sqlite database.
+The HackerNews project fetches the top and job stories in 2 formats from https://news.ycombinator.com for user convenience. Hackernews_csv.py is used to generate a .csv file with the data fetched and hackernew_db.py is used to insert the same data into a table in sqlite database.
 
 ### Requisites/Installation
 
